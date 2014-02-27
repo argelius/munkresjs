@@ -1,0 +1,4 @@
+munkresjs
+=========
+
+The Hungarian Algorithm.
